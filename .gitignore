@@ -7,4 +7,10 @@ evidently_workspace/
 .ipynb_checkpoints/
 .DS_Store
 .vscode/
-.idea/
+.idea/datascientest-workspace/
+outputs/
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
